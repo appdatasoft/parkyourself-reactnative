@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24758434460",
+    "firebase_url": "https://parkyourself-287907.firebaseio.com",
+    "project_id": "parkyourself-287907",
+    "storage_bucket": "parkyourself-287907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24758434460:android:05140b0836a77f504fcb59",
+        "android_client_info": {
+          "package_name": "com.rahulmohata.parkyourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24758434460-eeahus85qnrjs25grp4ukag1evs8m0tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxRNm_J0oJx2c2BB5ODySifs1A5xa-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24758434460-eeahus85qnrjs25grp4ukag1evs8m0tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
